@@ -8,4 +8,7 @@ body {
 .header{
     text-align: left;
     font-size: 10px;
+    width: 50%;
+    border-radius: 1px;
+    background-color: cadetblue;
 }
