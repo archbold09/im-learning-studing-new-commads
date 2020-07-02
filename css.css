@@ -3,3 +3,9 @@ body {
     background-color: aquamarine;
     font-size: larger;
 }
+
+.container{
+    width: 50%;
+    font-size: 6px;
+    text-align: center;
+}
