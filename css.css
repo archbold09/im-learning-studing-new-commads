@@ -9,3 +9,11 @@ body {
     font-size: 6px;
     text-align: center;
 }
+
+.header{
+    text-align: left;
+    font-size: 10px;
+    width: 50%;
+    border-radius: 1px;
+    background-color: cadetblue;
+}
